@@ -1,0 +1,14 @@
+C:\Users\boris\source\repos\Ontology\Ontology\bin\Debug\net9.0\Ontology.exe
+C:\Users\boris\source\repos\Ontology\Ontology\bin\Debug\net9.0\Ontology.deps.json
+C:\Users\boris\source\repos\Ontology\Ontology\bin\Debug\net9.0\Ontology.runtimeconfig.json
+C:\Users\boris\source\repos\Ontology\Ontology\bin\Debug\net9.0\Ontology.dll
+C:\Users\boris\source\repos\Ontology\Ontology\bin\Debug\net9.0\Ontology.pdb
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.AssemblyInfoInputs.cache
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.AssemblyInfo.cs
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.csproj.CoreCompileInputs.cache
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.dll
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\refint\Ontology.dll
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.pdb
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\Ontology.genruntimeconfig.cache
+C:\Users\boris\source\repos\Ontology\Ontology\obj\Debug\net9.0\ref\Ontology.dll
